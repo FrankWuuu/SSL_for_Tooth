@@ -1,5 +1,5 @@
 # SSL_for_Tooth
-semi-supervised learning for tooth segmentation
+Semi-Supervised Learning for Tooth Segmentation
 
 
 The dataset utilized in this study was based on the TDD [1]. Regrettably, the image labeled as "1051" had to be excluded due to a mismatch between the mask and the associated image.
